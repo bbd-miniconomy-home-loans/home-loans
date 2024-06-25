@@ -1,0 +1,12 @@
+[submodule "home-loans-backend"]
+	path = home-loans-backend
+	url = https://github.com/bbd-miniconomy-home-loans/home-loans-backend.git
+	branch = master
+[submodule "home-loans-infrastructure"]
+	path = home-loans-infrastructure
+	url = https://github.com/bbd-miniconomy-home-loans/home-loans-infrastructure.git
+	branch = master
+[submodule "home-loans-frontend"]
+	path = home-loans-frontend
+	url = https://github.com/bbd-miniconomy-home-loans/home-loans-frontend.git
+	branch = main
